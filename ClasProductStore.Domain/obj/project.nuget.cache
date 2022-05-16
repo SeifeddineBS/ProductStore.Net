@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ISUw77umyZS40XWD1HJIBcaKXi6W5hCSJdWrVc5V5j5PK5rtZ7ikKAHtVNcA4kHcrxm+QdfSOfCAt6oRvye81g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abir Hbecha\\source\\repos\\ProductStore-4ERP-BI7\\ClasProductStore.Domain\\ProductStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abir Hbecha\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
